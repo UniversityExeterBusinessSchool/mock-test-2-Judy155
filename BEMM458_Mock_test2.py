@@ -299,6 +299,8 @@ average = total / len(values)
 #print("The average is" + average)
 print("The average is",average) #不能用加号，字符串和float不能连。应该用逗号。。逗号的英文是 comma。
 
+#print(f"The average is {average}")
+
 # Identify and correct the errors in the code.识别并纠正代码中的错误。
 # Comment on each error and explain your fixes.注释每个错误并解释你的修复。
 
